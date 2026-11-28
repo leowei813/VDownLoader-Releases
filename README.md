@@ -2,9 +2,9 @@
 
 Chrome 擴充功能：偵測網頁上正在播放的影片，一鍵下載成 MP4。
 
-## 下載最新版：v0.9.3
+## 下載最新版：v0.9.4
 
-**[⬇ 下載 VDownloader-v0.9.3.zip](https://github.com/leowei813/VDownloader-Releases/releases/download/v0.9.3/VDownloader-v0.9.3.zip)**
+**[⬇ 下載 VDownloader-v0.9.4.zip](https://github.com/leowei813/VDownloader-Releases/releases/download/v0.9.4/VDownloader-v0.9.4.zip)**
 
 所有版本：[Releases](https://github.com/leowei813/VDownloader-Releases/releases)
 
